@@ -47,8 +47,3 @@ def factorial(n):
 
 n = int(input("Enter a number: "))
 print(f"The factorial of {n} is {factorial(n)}")
-
-# class and object
-class car:
-    name="bmw"
-    
